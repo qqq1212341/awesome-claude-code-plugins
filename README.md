@@ -380,6 +380,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 
 ### Thinking & Knowledge Management
 - [thinking-tree](https://github.com/CoralLips/thinking-tree)
+- [picture-diary](https://github.com/qqq1212341/picture-diary) - Nightly diary of what the agent wasted that day, drawn as a kid's picture-diary PNG (SVG written by the agent, no image API). Mistakes that repeat become CLAUDE.md rule candidates; a rule graduates after 14 quiet days or is retired. Local markdown only.
 
 ### Companion Apps & Tools
 - [Onepilot](https://onepilotapp.com) — iOS app to SSH into remote servers and run Claude Code from your phone
